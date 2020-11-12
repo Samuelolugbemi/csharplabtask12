@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\obj\Debug\netcoreapp3.1\DelegateApp.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\obj\Debug\netcoreapp3.1\DelegateApp.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\obj\Debug\netcoreapp3.1\DelegateApp.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\bin\Debug\netcoreapp3.1\DelegateApp.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\bin\Debug\netcoreapp3.1\DelegateApp.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\bin\Debug\netcoreapp3.1\DelegateApp.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\bin\Debug\netcoreapp3.1\DelegateApp.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\bin\Debug\netcoreapp3.1\DelegateApp.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\bin\Debug\netcoreapp3.1\DelegateApp.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\obj\Debug\netcoreapp3.1\DelegateApp.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task12\DelegateApp\obj\Debug\netcoreapp3.1\DelegateApp.pdb
