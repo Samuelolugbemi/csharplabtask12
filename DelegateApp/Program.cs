@@ -2,16 +2,15 @@
 
 namespace DelegateApp
 {
-    public delegate string SpaceDel(string str);
-    public delegate string ReverseDel(string str);
+    public delegate string HelperDel(string str);
 
     class Program
     {
         static void Main(string[] args)
         {
             var testDel = new TestDelegate();
-            SpaceDel spaceDel = testDel.Space;
-            ReverseDel reverseDel = testDel.Reverse;
+            HelperDel spaceDel = testDel.Space;
+            HelperDel reverseDel = testDel.Reverse;
             Console.WriteLine(spaceDel("Pamela"));
             Console.WriteLine(reverseDel("Samuel"));
         }
