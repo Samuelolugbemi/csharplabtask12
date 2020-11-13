@@ -8,7 +8,7 @@ namespace MulticastDelegateApp
         static void Main(string[] args)
         {
             Calculator calc = Addition;
-            calc += Subtraction;
+            calc += Multiplication;
             Console.Write("Enter first number: ");
             int firstNum = Convert.ToInt32(Console.ReadLine());
             Console.Write("Enter second number: ");
@@ -19,9 +19,9 @@ namespace MulticastDelegateApp
         {
             Console.WriteLine($"Sum is: {a + b}");
         }
-        static void Subtraction(int a, int b)
+        static void Multiplication(int a, int b)
         {
-            Console.WriteLine($"Difference is: {a - b}");
+            Console.WriteLine($"Product is: {a * b}");
         }
     }
 }
